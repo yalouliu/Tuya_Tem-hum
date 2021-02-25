@@ -1,0 +1,1 @@
+"APP\main.c" COMPACT BROWSE INCDIR(.\mcu_sdk) DEBUG OBJECTEXTEND PRINT(.\main.lst) OBJECT(main.obj)

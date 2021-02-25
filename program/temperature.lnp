@@ -1,0 +1,11 @@
+"STARTUP.obj",
+"mcu_api.obj",
+"protocol.obj",
+"system.obj",
+"LCD_init.obj",
+"main.obj",
+"myiic.obj",
+"USART.obj",
+"User_SHT30.obj" 
+TO "temperature" 
+RAMSIZE(256) 

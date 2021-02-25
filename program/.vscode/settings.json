@@ -1,0 +1,32 @@
+{
+    "search.exclude": {       
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "build/": true,
+        "temp/": true,
+        "library/": true,
+        "**/*.anim": true,
+        "**/.lis": true,
+        "**/.A51": true,
+        "**/.lnp": true,
+        "**/.lst": true,
+        "**/.LST": true,
+        "**/.M51": true,
+        "**/.o": true,
+        "**/.O": true,
+        "**/.obj": true,
+        "**/.OBJ": true
+    },
+    "files.exclude": {
+        "**/.lis": true,
+        "**/.A51": true,
+        "**/.lnp": true,
+        "**/.lst": true,
+        "**/.LST": true,
+        "**/.M51": true,
+        "**/.o": true,
+        "**/.O": true,
+        "**/.obj": true,
+        "**/.OBJ": true
+    }
+}
